@@ -16,3 +16,5 @@ INSERT INTO burgers (name) VALUES ("Bacon Burger");
 INSERT INTO burgers (name) VALUES ("Chicken Burger");
 INSERT INTO burgers (name) VALUES ("Jalapeno Burger");
 INSERT INTO burgers (name) VALUES ("Pastrami Burger");
+
+SELECT * FROM burgers
